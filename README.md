@@ -4,6 +4,7 @@ Polyphonic single cycle wavetable synth example for the Teensy microcontroller f
 
 Midi input can be controlled via usb and suitable program such as MIDI-OX, find it here: http://www.midiox.com/
 AKWF single cycle wavetables can be found here: https://www.adventurekid.se/akrt/waveforms/
+Select wavetable by sending corresponding array number on midi channel 70 or setting manually
 
 Wavetables converted to soundfonts for use with teensy soundfont decoder using Polyphone soundfont creator.
 
